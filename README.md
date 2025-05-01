@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage et surtout pour apprendre des concepts avancés de git. 
 
 ## Getting Started
 
